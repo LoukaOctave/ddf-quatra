@@ -15,6 +15,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="spring:spring:1.0.2" level="project" />
+    <orderEntry type="library" name="Spring-5.2.3.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: cglib:cglib:3.3.0" level="project" />
     <orderEntry type="library" name="Maven: org.ow2.asm:asm:7.1" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context:5.2.3.RELEASE" level="project" />
