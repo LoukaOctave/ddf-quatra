@@ -11,7 +11,7 @@ public class Product {
     Boolean inStock;
     ArrayList producten;
 
-    ArrayList<ProductKeuze> productKeuzes;
+    ArrayList<ProductkeuzeOld> productKeuzes;
 
     public ArrayList keuzeProducten() {
 

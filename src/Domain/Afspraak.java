@@ -15,7 +15,7 @@ public class Afspraak {
 
     String status;
 
-    ArrayList<ProductKeuze> keuzeProduct;
+    ArrayList<ProductkeuzeOld> keuzeProduct;
 
    /* public Afspraak(ArrayList<ProductKeuze> keuzeProduct) {
 
