@@ -1,14 +1,12 @@
 package Domain;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
-public class ProductKeuze {
+public class ProductkeuzeOld {
     String keuze;
     Integer aantal;
 
-
-    public ProductKeuze() {
+    public ProductkeuzeOld() {
 
 
     }
